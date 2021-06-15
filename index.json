@@ -1,0 +1,10 @@
+{
+    "name": "Mattso's Epic Swag Image Collection",
+    "path": "emotes",
+    "emotes" : [
+        {
+            "name": "fr",
+            "type": ".png"
+        }
+    ]
+}
