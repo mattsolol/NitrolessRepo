@@ -13,6 +13,34 @@
         {
             "name": "KanyeStare",
             "type": ".gif"
+        },
+        {
+            "name": "peepoClap",
+            "type": ".gif"
+        },
+        {
+            "name": "peepoHappy",
+            "type": ".png"
+        },
+        {
+            "name": "blobDance",
+            "type": ".gif"
+        },
+        {
+            "name": "ricardoFlick",
+            "type": ".gif"
+        },
+        {
+            "name": "popcat",
+            "type": ".gif"
+        },
+        {
+            "name": "peepoLeave",
+            "type": ".gif"
+        },
+        {
+            "name": "catJAM",
+            "type": ".gif"
         }
     ]
 }
