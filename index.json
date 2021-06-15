@@ -61,6 +61,14 @@
         {
             "name": "susPls",
             "type": ".gif"
+        },
+        {
+            "name": "rickDance",
+            "type": ".gif"
+        },
+        {
+            "name": "rickPls",
+            "type": ".gif"
         }
     ]
 }
