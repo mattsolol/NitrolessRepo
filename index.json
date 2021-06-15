@@ -41,6 +41,26 @@
         {
             "name": "catJAM",
             "type": ".gif"
+        },
+        {
+            "name": "sonic",
+            "type": ".gif"
+        },
+        {
+            "name": "sonicDance",
+            "type": ".gif"
+        },
+        {
+            "name": "Jeff",
+            "type": ".png"
+        },
+        {
+            "name": "susDrip",
+            "type": ".gif"
+        },
+        {
+            "name": "susPls",
+            "type": ".gif"
         }
     ]
 }
