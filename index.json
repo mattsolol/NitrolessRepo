@@ -5,6 +5,10 @@
         {
             "name": "fr",
             "type": ".png"
+        },
+        {
+            "name": "clap",
+            "type": ".gif"
         }
     ]
 }
